@@ -3,4 +3,4 @@ ARCA
 
 ARCA Control Panel
 
-http://undersampled.github.io/arca
+http://undersampled.github.io/ARCA

@@ -4,7 +4,7 @@
 # to all the transition functions 
 # ---
 paddingBottom = 20
-width = 680
+width = 600
 height = 256 - paddingBottom
 duration = 750
 
